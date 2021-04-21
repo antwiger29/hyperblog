@@ -1,17 +1,40 @@
+boddy{
+    padding: 0;
+    margin: 0;
+}
 .container{
      width: 60vw;
-     margin: 20px auto 0;
+     margin: 0 auto;
      border: solid 1px grey;
      font-family: Arial, Helvetica, sans-serif;
-     padding: 20px;
+     
 }
 h1{
     font-size: 24px;
     color: indigo;
     text-align: center;
+    margin: 0 10px;
 }
 
 p {
+    margin: 0 10px;
     color: lightseagreen;
     text-align: justify;
+}
+#cabecera{
+background-color: #197dffd5;
+color: whitesmoke;
+box-shadow: 0px 7px 11px -4px rgba(25,125,255,0.81);
+padding: 10px;
+font-weight: 700;
+font-size: 20px;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+span {
+    color: whitesmoke;
+    font-size: 17px;
+    font-weight: 300;
+    margin: 0 10px;
 }
