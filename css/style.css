@@ -1,0 +1,17 @@
+.container{
+     width: 60vw;
+     margin: 20px auto 0;
+     border: solid 1px grey;
+     font-family: Arial, Helvetica, sans-serif;
+     padding: 20px;
+}
+h1{
+    font-size: 24px;
+    color: indigo;
+    text-align: center;
+}
+
+p {
+    color: lightseagreen;
+    text-align: justify;
+}
